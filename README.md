@@ -9,11 +9,11 @@
 
 ## Featured Projects
 
-### Pick & Go · AI 영화 추천 서비스
+### Pick & Go (픽앤고) · AI 영화 추천 서비스
 Team Lead · Frontend · UI/UX  
 [서비스 바로가기](https://pick-and-go-2z6d.onrender.com)
 
-### GABOLLE · 부산 초개인화 여행 추천 서비스
+### GABOLLE (가볼래) · 부산 초개인화 여행 추천 서비스
 React · TypeScript 기반 웹과 React Native 앱 구현  
 [🤖 Google Play](https://play.google.com/store/apps/details?id=com.gabolle.app) · [🍎 App Store](https://apps.apple.com/kr/app/%EA%B0%80%EB%B3%BC%EB%9E%98-gabolle/id6811252919)
 
