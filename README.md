@@ -1,6 +1,6 @@
 # 진미리
 
-> 우사기처럼 즐겁게 협업하는 Frontend Developer
+> 우사기처럼 즐겁게 협업하는 Product Engineer
 
 ## Tech Stack
 
