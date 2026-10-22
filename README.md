@@ -1,6 +1,6 @@
 # 진미리
 
-> 카피바라처럼 유연하게 협업하고, 끝까지 완성도를 챙기는 Frontend Developer
+> 우사기처럼 즐겁게 협업하는 Frontend Developer
 
 ## Tech Stack
 
