@@ -18,8 +18,8 @@
 ## 👋 About
 
 - 🏆 SSAFY 15기 프로젝트 3회 연속 수상 — 관통 최우수 · 공통 우수 · 특화 우수
+- 👑 AI 영화 추천 서비스 **Pick & Go** **팀장**으로 최우수상, 발표 후에도 실제 서비스로 무료 배포·운영
 - 📱 부산 여행 앱 **GABOLLE** 웹·앱 프론트엔드 개발, Google Play · App Store 출시
-- 🎬 AI 영화 추천 서비스 **Pick & Go** 팀장, 발표 후에도 실제 서비스로 무료 배포·운영
 - 📝 README를 넘어, 프로젝트 코드를 다시 읽으며 "왜 이렇게 만들었는지"를 벨로그에 기록해요
 
 ## 🛠 Tech Stack
@@ -71,7 +71,7 @@
       <h4>🎬 Pick & Go</h4>
       AI 영화 추천 웹 서비스<br />
       🏆 관통 프로젝트 <b>최우수</b><br />
-      👩‍💻 팀장 · 프론트엔드 · UI/UX<br /><br />
+      👑 <b>팀장</b> · 프론트엔드 · UI/UX<br /><br />
       <a href="https://pick-and-go-2z6d.onrender.com">서비스</a> ·
       <a href="https://velog.io/@bara0121/series/%EA%B4%80%ED%86%B5-AI-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4">코드 기록</a>
     </td>
