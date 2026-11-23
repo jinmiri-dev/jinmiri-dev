@@ -137,7 +137,8 @@
       🎤 자율 프로젝트 <b>발표 완료</b> (결과 발표 전)<br />
       🛡 <b>인프라</b> · 로그인 서비스 · 앱 화면<br /><br />
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계">소개</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">내가 한 일</a>
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">내가 한 일</a> ·
+      <a href="https://velog.io/@bara0121/series/%EC%9E%90%EC%9C%A8-%EC%9A%94%EB%A6%AC-%EC%98%81%EC%83%81-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%84%9C%EB%B9%84%EC%8A%A4">코드 기록</a>
     </td>
   </tr>
 </table>
