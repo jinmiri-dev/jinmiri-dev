@@ -136,7 +136,7 @@
     </td>
     <td width="50%" valign="top">
       <img src="assets/cookingtable.svg" width="100%" alt="쿠킹테이블" />
-      <h4>🍳 쿠킹테이블</h4>
+      <h4>🧑‍🍳 쿠킹테이블</h4>
       요리 영상을 레시피로 나누는 AI 서비스 · 기업연계<br />
       🎤 자율 프로젝트 <b>발표 완료</b> (결과 발표 전)<br />
       🛡 <b>인프라</b> · 로그인 서비스 · 앱 화면<br /><br />
