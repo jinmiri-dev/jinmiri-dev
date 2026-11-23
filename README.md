@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <b>🏆 프로젝트 수상 3회</b> &nbsp;·&nbsp; <b>📱 앱 스토어 출시</b> &nbsp;·&nbsp; <b>🧭 프론트·백엔드·AI·인프라</b> &nbsp;·&nbsp; <b>🗂 Jira 이슈 503건</b>
+</p>
+
+<p align="center">
   <a href="https://velog.io/@bara0121"><img src="https://img.shields.io/badge/velog-프로젝트_기록-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog" /></a>
   <a href="https://www.linkedin.com/in/%EB%AF%B8%EB%A6%AC-%EC%A7%84/"><img src="https://img.shields.io/badge/LinkedIn-진미리-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/jinmiri-dev/MIRI_SSAFY"><img src="https://img.shields.io/badge/Portfolio-MIRI__SSAFY-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
@@ -18,80 +22,12 @@
 
 ## 👋 About
 
-- 🏆 SSAFY 15기 프로젝트 **3회 연속 수상** — 관통 최우수 · 공통 우수 · 특화 우수 (자율 프로젝트는 결과 발표 전)
-- 🧭 네 번의 프로젝트에서 **프론트엔드 · 백엔드 · AI · 인프라**를 모두 맡아 봤어요
-- 👑 AI 영화 추천 서비스 **Pick & Go** 팀장, 발표 후에도 직접 무료 배포·운영
+- 👑 AI 영화 추천 서비스 **Pick & Go** 팀장으로 최우수상, 발표 뒤에도 직접 무료 배포·운영
+- 📱 부산 여행 앱 **GABOLLE** 웹·앱 화면을 만들어 Google Play · App Store 출시
+- 🚗 AIoT 주차 관리 서비스 **주차바로**에서 차량 추적과 주차 위반 판정 규칙 구현
 - 🛡 기업연계 프로젝트 **쿠킹테이블**에서 팀 서버 인프라 담당 — 네트워크·로그인 서비스·보안·백업
-- 📝 README를 넘어, 코드를 다시 읽으며 "왜 이렇게 만들었는지"를 벨로그에 기록해요
+- 📝 프로젝트마다 **부딪힌 문제와 고른 선택지(A안·B안)**를 남기고, 코드를 다시 읽은 기록은 벨로그에 써요
 - 🗂 팀 프로젝트 코드는 SSAFY GitLab에서 작업했어요. 이 GitHub는 프로젝트를 모아 둔 **기록용**이라 잔디가 적어요
-
-## 🧭 해 본 일
-
-| 영역 | 프로젝트 | 한 일 |
-|:---:|---|---|
-| **Frontend** | Pick & Go · GABOLLE · 쿠킹테이블 | Vue 3 웹, React Native(Expo) 앱·웹 화면, 5개 언어, 앱 스토어 출시 |
-| **Backend** | Pick & Go · GABOLLE · 쿠킹테이블 | Django API·배치, Spring Boot 로그인 서비스(OAuth·JWT), 화면에 필요한 API |
-| **AI** | 주차바로 · Pick & Go · 쿠킹테이블 | 차량 추적·주차 위반 판정 규칙, LLM 추천·검열, 요리 영상 단계 판독 실험 |
-| **Infra** | Pick & Go · 쿠킹테이블 | 무료 배포(Render·Neon), 팀 서버 Nginx·HTTPS·방화벽·SSH 보안·암호화 백업 |
-
-## 🛠 Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Infra</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/AWS_Lightsail-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Lightsail" />
-      <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Let's Encrypt" />
-      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Collaboration</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-    </td>
-  </tr>
-</table>
 
 ## 🚀 Projects
 
@@ -103,10 +39,10 @@
       AI 영화 추천 웹 서비스<br />
       🏆 관통 프로젝트 <b>최우수</b><br />
       👑 <b>팀장</b> · 프론트엔드 · 백엔드 · UI/UX<br /><br />
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/1학기_픽앤고_영화추천사이트">소개</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">내가 한 일</a> ·
-      <a href="https://pick-and-go-2z6d.onrender.com">서비스</a> ·
-      <a href="https://velog.io/@bara0121/series/%EA%B4%80%ED%86%B5-AI-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4">코드 기록</a>
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/1학기_픽앤고_영화추천사이트">📄 프로젝트</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">🙋 내 역할·판단</a> ·
+      <a href="https://pick-and-go-2z6d.onrender.com">🔗 서비스</a> ·
+      <a href="https://velog.io/@bara0121/series/%EA%B4%80%ED%86%B5-AI-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4">✍️ 블로그</a>
     </td>
     <td width="50%" valign="top">
       <img src="assets/jucha-baro.svg" width="100%" alt="주차바로" />
@@ -115,9 +51,9 @@
       🏆 공통 프로젝트 <b>우수</b><br />
       👩‍💻 AI · 추적 · 위반 판정<br /><br />
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT#-영상-포트폴리오">🎬 영상</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT">소개</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_주차바로_AIoT/내가_한_일.md">내가 한 일</a> ·
-      <a href="https://velog.io/@bara0121/series/%EC%98%81%EC%83%81-AI-%EC%8B%A4%EC%A0%84-%EB%85%B8%ED%8A%B8">코드 기록</a>
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT">📄 프로젝트</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_주차바로_AIoT/내가_한_일.md">🙋 내 역할·판단</a> ·
+      <a href="https://velog.io/@bara0121/series/%EC%98%81%EC%83%81-AI-%EC%8B%A4%EC%A0%84-%EB%85%B8%ED%8A%B8">✍️ 블로그</a>
     </td>
   </tr>
   <tr>
@@ -128,11 +64,11 @@
       🏆 특화 프로젝트 <b>우수</b><br />
       👩‍💻 웹·앱 프론트엔드<br /><br />
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산#-영상-포트폴리오">🎬 영상</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산">소개</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">내가 한 일</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산">📄 프로젝트</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">🙋 내 역할·판단</a> ·
       <a href="https://play.google.com/store/apps/details?id=com.gabolle.app">Google Play</a> ·
       <a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%B3%BC%EB%9E%98-gabolle/id6811252919">App Store</a> ·
-      <a href="https://velog.io/@bara0121/series/%ED%8A%B9%ED%99%94-%EB%B6%80%EC%82%B0-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EC%95%B1">코드 기록</a>
+      <a href="https://velog.io/@bara0121/series/%ED%8A%B9%ED%99%94-%EB%B6%80%EC%82%B0-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EC%95%B1">✍️ 블로그</a>
     </td>
     <td width="50%" valign="top">
       <img src="assets/cookingtable.svg" width="100%" alt="쿠킹테이블" />
@@ -141,11 +77,22 @@
       🎤 자율 프로젝트 <b>발표 완료</b> (결과 발표 전)<br />
       🛡 <b>인프라</b> · 로그인 서비스 · 앱 화면<br /><br />
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계#-홍보-영상">🎬 영상</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계">소개</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">내가 한 일</a> ·
-      <a href="https://velog.io/@bara0121/series/%EC%9E%90%EC%9C%A8-%EC%9A%94%EB%A6%AC-%EC%98%81%EC%83%81-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%84%9C%EB%B9%84%EC%8A%A4">코드 기록</a>
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계">📄 프로젝트</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">🙋 내 역할·판단</a> ·
+      <a href="https://velog.io/@bara0121/series/%EC%9E%90%EC%9C%A8-%EC%9A%94%EB%A6%AC-%EC%98%81%EC%83%81-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%84%9C%EB%B9%84%EC%8A%A4">✍️ 블로그</a>
     </td>
   </tr>
+</table>
+
+## 🧭 해 본 일과 기술
+
+<table>
+  <tr><th width="110">영역</th><th>해 본 일</th><th width="300">주로 쓴 기술</th></tr>
+  <tr><td align="center"><b>Frontend</b></td><td>Vue 3 웹, React Native(Expo) 앱·웹 화면, 5개 언어, 앱 스토어 출시</td><td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /></td></tr>
+  <tr><td align="center"><b>Backend</b></td><td>Django API·배치, Spring Boot 로그인 서비스(OAuth·JWT), 화면에 필요한 API</td><td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td></tr>
+  <tr><td align="center"><b>AI</b></td><td>차량 추적·주차 위반 판정 규칙, LLM 추천·검열, 요리 영상 단계 판독 실험</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" /></td></tr>
+  <tr><td align="center"><b>Infra</b></td><td>무료 배포(Render·Neon), 팀 서버 Nginx·HTTPS·방화벽·SSH 보안·암호화 백업</td><td><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /></td></tr>
+  <tr><td align="center"><b>협업</b></td><td>Jira 이슈 단위 작업, GitLab MR, 디자인 시안</td><td><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></td></tr>
 </table>
 
 ## 🏆 수상 · 활동
@@ -185,5 +132,5 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/jinmiri-dev/MIRI_SSAFY"><b>📁 프로젝트별 README · 내가 한 일 · 벨로그 기록 모아 보기 — MIRI_SSAFY</b></a>
+  <a href="https://github.com/jinmiri-dev/MIRI_SSAFY"><b>📁 네 프로젝트의 영상 · 장표 · 내 역할 · Jira를 한 표로 보기 — MIRI_SSAFY</b></a>
 </p>
