@@ -23,6 +23,7 @@
 - 👑 AI 영화 추천 서비스 **Pick & Go** 팀장, 발표 후에도 직접 무료 배포·운영
 - 🛡 기업연계 프로젝트 **쿠킹테이블**에서 팀 서버 인프라 담당 — 네트워크·로그인 서비스·보안·백업
 - 📝 README를 넘어, 코드를 다시 읽으며 "왜 이렇게 만들었는지"를 벨로그에 기록해요
+- 🗂 팀 프로젝트 코드는 SSAFY GitLab에서 작업했어요. 이 GitHub는 프로젝트를 모아 둔 **기록용**이라 잔디가 적어요
 
 ## 🧭 해 본 일
 
@@ -30,7 +31,7 @@
 |:---:|---|---|
 | **Frontend** | Pick & Go · GABOLLE · 쿠킹테이블 | Vue 3 웹, React Native(Expo) 앱·웹 화면, 5개 언어, 앱 스토어 출시 |
 | **Backend** | Pick & Go · GABOLLE · 쿠킹테이블 | Django API·배치, Spring Boot 로그인 서비스(OAuth·JWT), 화면에 필요한 API |
-| **AI** | 주차바로 · Pick & Go · 쿠킹테이블 | 번호판 인식·차량 추적, LLM 추천·검열, 요리 영상 단계 판독 실험 |
+| **AI** | 주차바로 · Pick & Go · 쿠킹테이블 | 차량 추적·주차 위반 판정 규칙, LLM 추천·검열, 요리 영상 단계 판독 실험 |
 | **Infra** | Pick & Go · 쿠킹테이블 | 무료 배포(Render·Neon), 팀 서버 Nginx·HTTPS·방화벽·SSH 보안·암호화 백업 |
 
 ## 🛠 Tech Stack
@@ -112,8 +113,9 @@
       <h4>🚗 주차바로</h4>
       AIoT 주차 관리 서비스<br />
       🏆 공통 프로젝트 <b>우수</b><br />
-      👩‍💻 AI · 엣지 디바이스 연동<br /><br />
+      👩‍💻 AI · 추적 · 위반 판정<br /><br />
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT">소개</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_주차바로_AIoT/내가_한_일.md">내가 한 일</a> ·
       <a href="https://velog.io/@bara0121/series/%EC%98%81%EC%83%81-AI-%EC%8B%A4%EC%A0%84-%EB%85%B8%ED%8A%B8">코드 기록</a>
     </td>
   </tr>
