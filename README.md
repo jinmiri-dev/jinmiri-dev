@@ -114,6 +114,7 @@
       AIoT 주차 관리 서비스<br />
       🏆 공통 프로젝트 <b>우수</b><br />
       👩‍💻 AI · 추적 · 위반 판정<br /><br />
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT#-영상-포트폴리오">🎬 영상</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT">소개</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_주차바로_AIoT/내가_한_일.md">내가 한 일</a> ·
       <a href="https://velog.io/@bara0121/series/%EC%98%81%EC%83%81-AI-%EC%8B%A4%EC%A0%84-%EB%85%B8%ED%8A%B8">코드 기록</a>
@@ -126,6 +127,7 @@
       부산 초개인화 여행 추천 앱<br />
       🏆 특화 프로젝트 <b>우수</b><br />
       👩‍💻 웹·앱 프론트엔드<br /><br />
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산#-영상-포트폴리오">🎬 영상</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산">소개</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">내가 한 일</a> ·
       <a href="https://play.google.com/store/apps/details?id=com.gabolle.app">Google Play</a> ·
@@ -138,6 +140,7 @@
       요리 영상을 레시피로 나누는 AI 서비스 · 기업연계<br />
       🎤 자율 프로젝트 <b>발표 완료</b> (결과 발표 전)<br />
       🛡 <b>인프라</b> · 로그인 서비스 · 앱 화면<br /><br />
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계#-홍보-영상">🎬 영상</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계">소개</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">내가 한 일</a> ·
       <a href="https://velog.io/@bara0121/series/%EC%9E%90%EC%9C%A8-%EC%9A%94%EB%A6%AC-%EC%98%81%EC%83%81-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%84%9C%EB%B9%84%EC%8A%A4">코드 기록</a>
