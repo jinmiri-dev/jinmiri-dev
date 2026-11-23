@@ -150,14 +150,15 @@
 
 ## 🏆 수상 · 활동
 
-| 구분 | 내용 | 역할 |
-|:---:|---|---|
-| 🙋&nbsp;활동 | **SSAFY 부울경 1반 CA** (Class Ambassador) | 자치회 활동 |
-| 🥇&nbsp;최우수 | **광주 캠퍼스 SSAFY MeetUp! 쇼미더아이디어** · 상금 30만원 | 개발 언어 선택을 주제로 한 콩트 형식 발표 (5인 1팀) |
-| 🥇&nbsp;최우수 | **관통 프로젝트** · AI 영화 추천 서비스 Pick & Go | **팀장** |
-| 🥈&nbsp;우수 | **공통 프로젝트** · AIoT 주차 관리 서비스 주차바로 | AI 담당 |
-| 🥈&nbsp;우수 | **특화 프로젝트** · 부산 여행 추천 서비스 GABOLLE(가볼래) · 반 2등 | 프론트엔드 담당 |
-| 🎤&nbsp;발표 | **자율 프로젝트(기업연계)** · 요리 영상 레시피 서비스 쿠킹테이블 · 결과 발표 전 | 인프라 담당 |
+<table>
+  <tr><th width="110">구분</th><th>내용</th><th width="190">역할</th></tr>
+  <tr><td align="center">🙋 활동</td><td><b>SSAFY 부울경 1반 CA</b> (Class Ambassador)</td><td>자치회 활동</td></tr>
+  <tr><td align="center">🥇 최우수</td><td><b>광주 캠퍼스 SSAFY MeetUp! 쇼미더아이디어</b> · 상금 30만원</td><td>개발 언어 선택을 주제로 한 콩트 형식 발표 (5인 1팀)</td></tr>
+  <tr><td align="center">🥇 최우수</td><td><b>관통 프로젝트</b> · AI 영화 추천 서비스 Pick & Go</td><td><b>팀장</b></td></tr>
+  <tr><td align="center">🥈 우수</td><td><b>공통 프로젝트</b> · AIoT 주차 관리 서비스 주차바로</td><td>AI 담당</td></tr>
+  <tr><td align="center">🥈 우수</td><td><b>특화 프로젝트</b> · 부산 여행 추천 서비스 GABOLLE(가볼래) · 반 2등</td><td>프론트엔드 담당</td></tr>
+  <tr><td align="center">🎤 발표</td><td><b>자율 프로젝트(기업연계)</b> · 요리 영상 레시피 서비스 쿠킹테이블 · 결과 발표 전</td><td>인프라 담당</td></tr>
+</table>
 
 <details>
 <summary><b>📜 상장 보기</b></summary>
