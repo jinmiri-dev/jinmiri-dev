@@ -15,7 +15,6 @@
 <p align="center">
   <a href="https://velog.io/@bara0121"><img src="https://img.shields.io/badge/velog-프로젝트_기록-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog" /></a>
   <a href="https://www.linkedin.com/in/%EB%AF%B8%EB%A6%AC-%EC%A7%84/"><img src="https://img.shields.io/badge/LinkedIn-진미리-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/jinmiri-dev/MIRI_SSAFY"><img src="https://img.shields.io/badge/Portfolio-MIRI__SSAFY-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -50,8 +49,7 @@
       AIoT 주차 관리 서비스<br />
       🏆 공통 프로젝트 <b>우수</b><br />
       👩‍💻 AI · 추적 · 위반 판정<br /><br />
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT#-영상-포트폴리오">🎬 영상</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT">📄 프로젝트</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT">📄 프로젝트·영상·장표</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_주차바로_AIoT/내가_한_일.md">🙋 내 역할·판단</a> ·
       <a href="https://velog.io/@bara0121/series/%EC%98%81%EC%83%81-AI-%EC%8B%A4%EC%A0%84-%EB%85%B8%ED%8A%B8">✍️ 블로그</a>
     </td>
@@ -63,8 +61,7 @@
       부산 초개인화 여행 추천 앱<br />
       🏆 특화 프로젝트 <b>우수</b><br />
       👩‍💻 웹·앱 프론트엔드<br /><br />
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산#-영상-포트폴리오">🎬 영상</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산">📄 프로젝트</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산">📄 프로젝트·영상·장표</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">🙋 내 역할·판단</a> ·
       <a href="https://play.google.com/store/apps/details?id=com.gabolle.app">Google Play</a> ·
       <a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%B3%BC%EB%9E%98-gabolle/id6811252919">App Store</a> ·
@@ -76,8 +73,7 @@
       요리 영상을 레시피로 나누는 AI 서비스 · 기업연계<br />
       🎤 자율 프로젝트 <b>발표 완료</b> (결과 발표 전)<br />
       🛡 <b>인프라</b> · 로그인 서비스 · 앱 화면<br /><br />
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계#-홍보-영상">🎬 영상</a> ·
-      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계">📄 프로젝트</a> ·
+      <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계">📄 프로젝트·영상·장표</a> ·
       <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">🙋 내 역할·판단</a> ·
       <a href="https://velog.io/@bara0121/series/%EC%9E%90%EC%9C%A8-%EC%9A%94%EB%A6%AC-%EC%98%81%EC%83%81-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%84%9C%EB%B9%84%EC%8A%A4">✍️ 블로그</a>
     </td>
@@ -103,7 +99,7 @@
   <tr><td align="center">🥇 최우수</td><td><b>광주 캠퍼스 SSAFY MeetUp! 쇼미더아이디어</b> · 상금 30만원</td><td>개발 언어 선택을 주제로 한 콩트 형식 발표 (5인 1팀)</td></tr>
   <tr><td align="center">🥇 최우수</td><td><b>관통 프로젝트</b> · AI 영화 추천 서비스 Pick & Go</td><td><b>팀장</b></td></tr>
   <tr><td align="center">🥈 우수</td><td><b>공통 프로젝트</b> · AIoT 주차 관리 서비스 주차바로</td><td>AI 담당</td></tr>
-  <tr><td align="center">🥈 우수</td><td><b>특화 프로젝트</b> · 부산 여행 추천 서비스 GABOLLE(가볼래) · 반 2등</td><td>프론트엔드 담당</td></tr>
+  <tr><td align="center">🥈 우수</td><td><b>특화 프로젝트</b> · 부산 여행 추천 서비스 GABOLLE(가볼래)</td><td>프론트엔드 담당</td></tr>
   <tr><td align="center">🎤 발표</td><td><b>자율 프로젝트(기업연계)</b> · 요리 영상 레시피 서비스 쿠킹테이블 · 결과 발표 전</td><td>인프라 담당</td></tr>
 </table>
 
@@ -129,8 +125,3 @@
 <sub>이미지를 누르면 원본 크기로 볼 수 있어요.</sub>
 </details>
 
----
-
-<p align="center">
-  <a href="https://github.com/jinmiri-dev/MIRI_SSAFY"><b>📁 네 프로젝트의 영상 · 장표 · 내 역할 · Jira를 한 표로 보기 — MIRI_SSAFY</b></a>
-</p>
