@@ -32,7 +32,7 @@
     <td width="50%" valign="top">
       <img src="assets/pickandgo.svg" width="100%" alt="Pick & Go" />
       <h4>🎬 Pick & Go</h4>
-      <img src="https://img.shields.io/badge/%ED%8C%80%EC%9E%A5-F59F00?style=for-the-badge" alt="팀장" height="22" /> <b>팀을 이끌고 기능 범위·일정 결정</b><br />
+      <img src="https://img.shields.io/badge/Team_Lead-F59F00?style=for-the-badge" alt="Team Lead" height="22" /> <b>팀을 이끌고 기능 범위·일정 결정</b><br />
       <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>Vue 화면</b><br />
       <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>Django API</b><br /><br />
       AI 영화 추천 웹 서비스<br />
