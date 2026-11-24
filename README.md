@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>🏆 프로젝트 수상 3회</b> &nbsp;·&nbsp; <b>📱 앱 스토어 출시</b> &nbsp;·&nbsp; <b>🧭 프론트·백엔드·AI·인프라</b> &nbsp;·&nbsp; <b>🗂 Jira 이슈 503건</b>
+  <b>🏆 프로젝트 수상 3회</b> &nbsp;·&nbsp; <b>📱 앱 스토어 출시</b> &nbsp;·&nbsp; <b>🧭 프론트·백엔드·AI·인프라</b> &nbsp;·&nbsp; <b>🗂 담당 Jira 이슈 503건</b>
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@
 ## 👋 About
 
 - 네 번의 SSAFY 프로젝트에서 **프론트엔드 · 백엔드 · AI · 인프라**를 차례로 맡았어요
+  <sub>SSAFY는 1년 동안 관통(1학기) → 공통 → 특화 → 자율(2학기) 순서로 팀 프로젝트를 하고, 반·지역 단위로 시상해요</sub>
 - 문제를 만나면 선택지를 나란히 놓고 **왜 그 길을 골랐는지** 기록해요. 아래 카드마다 문제 해결 사례를 하나씩 적었어요
 - 팀 프로젝트 코드는 SSAFY GitLab에서 작업했어요. 이 GitHub는 프로젝트를 모아 둔 **기록용**이라 잔디가 적어요
 
@@ -31,65 +32,57 @@
   <tr>
     <td width="50%" valign="top">
       <img src="assets/pickandgo.svg" width="100%" alt="Pick & Go" />
-      <h4>🎬 Pick & Go</h4>
+      <h4>🎬 Pick & Go &nbsp;·&nbsp; 🥇 관통 최우수</h4>
+      <sub>AI 영화 추천 웹 서비스 · 2인 팀 · 5일 (2026.06)</sub><br /><br />
       <img src="https://img.shields.io/badge/Team_Lead-F59F00?style=for-the-badge" alt="Team Lead" height="22" /> <b>팀을 이끌고 기능 범위·일정 결정</b><br />
       <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>Vue 화면</b><br />
       <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>Django API</b><br /><br />
-      AI 영화 추천 웹 서비스<br />
-      🏆 관통 프로젝트 <b>최우수</b><br />
-      <br />
       <b>맡은 일</b> · Vue 화면과 Django API를 함께 만들고, 발표 뒤 직접 무료 배포<br /><br />
       <b>🔧 문제 해결</b><br />
       영화 수백 편의 AI 점수를 화면 열 때마다 물으면 느리고 AI가 멈추면 화면도 멈춤<br />
       → 사용자별이 아니라 MVTI 유형 16개 단위로 미리 계산(배치)<br />
-      → 화면은 DB 조회 한 번, AI가 멈춰도 추천은 그대로<br /><br />
+      → <b>화면은 DB 조회 한 번, AI가 멈춰도 추천은 그대로</b><br /><br />
       <sub><a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/1학기_픽앤고_영화추천사이트">📄 프로젝트</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">🔧 문제 해결 더 보기</a> · <a href="https://pick-and-go-2z6d.onrender.com">🔗 서비스</a> · <a href="https://velog.io/@bara0121/series/%EA%B4%80%ED%86%B5-AI-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4">✍️ 블로그</a></sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/jucha-baro.svg" width="100%" alt="주차바로" />
-      <h4>🚗 주차바로</h4>
+      <h4>🚗 주차바로 &nbsp;·&nbsp; 🥈 공통 우수</h4>
+      <sub>AIoT 주차 관리 서비스 · 7인 팀 · 6주 (2026.07 ~ 08)</sub><br /><br />
       <img src="https://img.shields.io/badge/AI-7048E8?style=for-the-badge" alt="AI" height="22" /> <b>차량 추적 · 위반 판정</b><br /><br />
-      AIoT 주차 관리 서비스<br />
-      🏆 공통 프로젝트 <b>우수</b><br />
-      <br />
       <b>맡은 일</b> · 천장 카메라 차량 추적, 이중주차·전기차 등 위반 판정 규칙, 백엔드 연동<br /><br />
       <b>🔧 문제 해결</b><br />
       장애인·전기차 구역 자격 정보가 아직 연결되지 않은 차량<br />
       → 위반으로 신고하지 않고 "후보"로 보류<br />
-      → 정상 차량을 잘못 신고하지 않고, 정보가 채워지면 정상 판정<br /><br />
+      → <b>정상 차량을 잘못 신고하지 않고, 정보가 채워지면 정상 판정</b><br /><br />
       <sub><a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_주차바로_AIoT">📄 프로젝트·영상·장표</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_주차바로_AIoT/내가_한_일.md">🔧 문제 해결 더 보기</a> · <a href="https://velog.io/@bara0121/series/%EC%98%81%EC%83%81-AI-%EC%8B%A4%EC%A0%84-%EB%85%B8%ED%8A%B8">✍️ 블로그</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="assets/gabolle.svg" width="100%" alt="GABOLLE" />
-      <h4>🌉 GABOLLE (가볼래)</h4>
+      <h4>🌉 GABOLLE &nbsp;·&nbsp; 🥈 특화 우수</h4>
+      <sub>부산 초개인화 여행 추천 앱 · 6인 팀 · 7주 (2026.08 ~ 09) · 앱 스토어 출시</sub><br /><br />
       <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>앱 · 웹 화면</b><br />
       <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>화면용 API 일부</b><br /><br />
-      부산 초개인화 여행 추천 앱<br />
-      🏆 특화 프로젝트 <b>우수</b><br />
-      <br />
       <b>맡은 일</b> · React Native(Expo) 한 코드로 앱·웹 화면, 5개 언어, 스토어 출시<br /><br />
       <b>🔧 문제 해결</b><br />
       숫자가 낀 문구 208곳이 일본어·중국어 화면에서 영어로 나옴<br />
       → 호출부 208곳 대신 번역을 찾는 함수 하나만 "숫자 뺀 모양"으로 수정<br />
-      → 208곳 한 번에 해결, 번역 누락은 CI 검사로 재발 방지<br /><br />
+      → <b>208곳 한 번에 해결, 번역 누락은 CI 검사로 재발 방지</b><br /><br />
       <sub><a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_가볼래_빅데이터_분산">📄 프로젝트·영상·장표</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">🔧 문제 해결 더 보기</a> · <a href="https://play.google.com/store/apps/details?id=com.gabolle.app">Google Play</a> · <a href="https://apps.apple.com/kr/app/%EA%B0%80%EB%B3%BC%EB%9E%98-gabolle/id6811252919">App Store</a> · <a href="https://velog.io/@bara0121/series/%ED%8A%B9%ED%99%94-%EB%B6%80%EC%82%B0-%EC%97%AC%ED%96%89-%EC%B6%94%EC%B2%9C-%EC%95%B1">✍️ 블로그</a></sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/cookingtable.svg" width="100%" alt="쿠킹테이블" />
-      <h4>🧑‍🍳 쿠킹테이블</h4>
+      <h4>🧑‍🍳 쿠킹테이블 &nbsp;·&nbsp; 🎤 자율 · 결과 발표 전</h4>
+      <sub>요리 영상 레시피 AI 서비스 · 조리 로봇 기업연계 · 6인 팀 · 6주 (2026.10 ~ 11)</sub><br /><br />
       <img src="https://img.shields.io/badge/Infra-E8590C?style=for-the-badge" alt="Infra" height="22" /> <b>서버 · 보안 · 백업</b><br />
       <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>로그인 서비스</b><br />
       <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>앱 화면</b><br /><br />
-      요리 영상을 레시피로 나누는 AI 서비스 · 기업연계<br />
-      🎤 자율 프로젝트 <b>발표 완료</b> (결과 발표 전)<br />
-      <br />
       <b>맡은 일</b> · 팀 서버 Nginx·HTTPS, 카카오·네이버·구글 로그인 서비스, 보안 점검, 암호화 백업<br /><br />
       <b>🔧 문제 해결</b><br />
       12MB 영상 업로드가 서버 문 앞(Nginx)에서 413으로 막힘<br />
       → API 전체 한도를 올리지 않고 업로드 경로만 34MB로 따로 열기<br />
-      → 업로드는 통과, 다른 API는 10MB 그대로 보호<br /><br />
+      → <b>업로드는 통과, 다른 API는 10MB 그대로 보호</b><br /><br />
       <sub><a href="https://github.com/jinmiri-dev/MIRI_SSAFY/tree/main/2학기_쿠킹테이블__기업연계">📄 프로젝트·영상·장표</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">🔧 문제 해결 더 보기</a> · <a href="https://velog.io/@bara0121/series/%EC%9E%90%EC%9C%A8-%EC%9A%94%EB%A6%AC-%EC%98%81%EC%83%81-%EB%A0%88%EC%8B%9C%ED%94%BC-%EC%84%9C%EB%B9%84%EC%8A%A4">✍️ 블로그</a></sub>
     </td>
   </tr>
