@@ -32,7 +32,9 @@
     <td width="50%" valign="top">
       <img src="assets/pickandgo.svg" width="100%" alt="Pick & Go" />
       <h4>🎬 Pick & Go</h4>
-      <img src="https://img.shields.io/badge/%ED%8C%80%EC%9E%A5-F59F00?style=for-the-badge" alt="팀장" /> <img src="https://img.shields.io/badge/Frontend-Vue_%ED%99%94%EB%A9%B4-3178C6?style=for-the-badge&labelColor=334155" alt="Frontend Vue 화면" /> <img src="https://img.shields.io/badge/Backend-Django_API-2F9E44?style=for-the-badge&labelColor=334155" alt="Backend Django API" /><br /><br />
+      <img src="https://img.shields.io/badge/%ED%8C%80%EC%9E%A5-F59F00?style=for-the-badge" alt="팀장" height="22" /> <b>팀을 이끌고 기능 범위·일정 결정</b><br />
+      <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>Vue 화면</b><br />
+      <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>Django API</b><br /><br />
       AI 영화 추천 웹 서비스<br />
       🏆 관통 프로젝트 <b>최우수</b><br />
       <br />
@@ -46,7 +48,7 @@
     <td width="50%" valign="top">
       <img src="assets/jucha-baro.svg" width="100%" alt="주차바로" />
       <h4>🚗 주차바로</h4>
-      <img src="https://img.shields.io/badge/AI-%EC%B0%A8%EB%9F%89_%EC%B6%94%EC%A0%81_%C2%B7_%EC%9C%84%EB%B0%98_%ED%8C%90%EC%A0%95-7048E8?style=for-the-badge&labelColor=334155" alt="AI 차량 추적 · 위반 판정" /><br /><br />
+      <img src="https://img.shields.io/badge/AI-7048E8?style=for-the-badge" alt="AI" height="22" /> <b>차량 추적 · 위반 판정</b><br /><br />
       AIoT 주차 관리 서비스<br />
       🏆 공통 프로젝트 <b>우수</b><br />
       <br />
@@ -62,7 +64,8 @@
     <td width="50%" valign="top">
       <img src="assets/gabolle.svg" width="100%" alt="GABOLLE" />
       <h4>🌉 GABOLLE (가볼래)</h4>
-      <img src="https://img.shields.io/badge/Frontend-%EC%95%B1_%C2%B7_%EC%9B%B9_%ED%99%94%EB%A9%B4-3178C6?style=for-the-badge&labelColor=334155" alt="Frontend 앱 · 웹 화면" /> <img src="https://img.shields.io/badge/Backend-%ED%99%94%EB%A9%B4%EC%9A%A9_API_%EC%9D%BC%EB%B6%80-2F9E44?style=for-the-badge&labelColor=334155" alt="Backend 화면용 API 일부" /><br /><br />
+      <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>앱 · 웹 화면</b><br />
+      <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>화면용 API 일부</b><br /><br />
       부산 초개인화 여행 추천 앱<br />
       🏆 특화 프로젝트 <b>우수</b><br />
       <br />
@@ -76,7 +79,9 @@
     <td width="50%" valign="top">
       <img src="assets/cookingtable.svg" width="100%" alt="쿠킹테이블" />
       <h4>🧑‍🍳 쿠킹테이블</h4>
-      <img src="https://img.shields.io/badge/Infra-%EC%84%9C%EB%B2%84_%C2%B7_%EB%B3%B4%EC%95%88_%C2%B7_%EB%B0%B1%EC%97%85-E8590C?style=for-the-badge&labelColor=334155" alt="Infra 서버 · 보안 · 백업" /> <img src="https://img.shields.io/badge/Backend-%EB%A1%9C%EA%B7%B8%EC%9D%B8_%EC%84%9C%EB%B9%84%EC%8A%A4-2F9E44?style=for-the-badge&labelColor=334155" alt="Backend 로그인 서비스" /> <img src="https://img.shields.io/badge/Frontend-%EC%95%B1_%ED%99%94%EB%A9%B4-3178C6?style=for-the-badge&labelColor=334155" alt="Frontend 앱 화면" /><br /><br />
+      <img src="https://img.shields.io/badge/Infra-E8590C?style=for-the-badge" alt="Infra" height="22" /> <b>서버 · 보안 · 백업</b><br />
+      <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>로그인 서비스</b><br />
+      <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>앱 화면</b><br /><br />
       요리 영상을 레시피로 나누는 AI 서비스 · 기업연계<br />
       🎤 자율 프로젝트 <b>발표 완료</b> (결과 발표 전)<br />
       <br />
