@@ -34,9 +34,9 @@
       <img src="assets/pickandgo.svg" width="100%" alt="Pick & Go" />
       <h4>🎬 Pick & Go &nbsp;·&nbsp; 🥇 관통 최우수</h4>
       <sub>AI 영화 추천 웹 서비스 · 2인 팀 · 5일 (2026.06)</sub><br /><br />
-      <img src="https://img.shields.io/badge/Team_Lead-F59F00?style=for-the-badge" alt="Team Lead" height="22" /> <b>팀을 이끌고 기능 범위·일정 결정</b><br />
-      <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>Vue 화면</b><br />
-      <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>Django API</b><br /><br />
+      <img src="https://img.shields.io/badge/Team_Lead-B8892E?style=for-the-badge" alt="Team Lead" height="22" /> <b>팀을 이끌고 기능 범위·일정 결정</b><br />
+      <img src="https://img.shields.io/badge/Frontend-4A6A9C?style=for-the-badge" alt="Frontend" height="22" /> <b>Vue 화면</b><br />
+      <img src="https://img.shields.io/badge/Backend-4E8060?style=for-the-badge" alt="Backend" height="22" /> <b>Django API</b><br /><br />
       <b>맡은 일</b> · Vue 화면과 Django API를 함께 만들고, 발표 뒤 직접 무료 배포<br /><br />
       <b>🔧 문제 해결</b><br />
       영화 수백 편의 AI 점수를 화면 열 때마다 물으면 느리고 AI가 멈추면 화면도 멈춤<br />
@@ -48,7 +48,7 @@
       <img src="assets/jucha-baro.svg" width="100%" alt="주차바로" />
       <h4>🚗 주차바로 &nbsp;·&nbsp; 🥈 공통 우수</h4>
       <sub>AIoT 주차 관리 서비스 · 7인 팀 · 6주 (2026.07 ~ 08)</sub><br /><br />
-      <img src="https://img.shields.io/badge/AI-7048E8?style=for-the-badge" alt="AI" height="22" /> <b>차량 추적 · 위반 판정</b><br /><br />
+      <img src="https://img.shields.io/badge/AI-74679E?style=for-the-badge" alt="AI" height="22" /> <b>차량 추적 · 위반 판정</b><br /><br />
       <b>맡은 일</b> · 천장 카메라 차량 추적, 이중주차·전기차 등 위반 판정 규칙, 백엔드 연동<br /><br />
       <b>🔧 문제 해결</b><br />
       장애인·전기차 구역 자격 정보가 아직 연결되지 않은 차량<br />
@@ -62,8 +62,8 @@
       <img src="assets/gabolle.svg" width="100%" alt="GABOLLE" />
       <h4>🌉 GABOLLE &nbsp;·&nbsp; 🥈 특화 우수</h4>
       <sub>부산 초개인화 여행 추천 앱 · 6인 팀 · 7주 (2026.08 ~ 09) · 앱 스토어 출시</sub><br /><br />
-      <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>앱 · 웹 화면</b><br />
-      <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>화면용 API 일부</b><br /><br />
+      <img src="https://img.shields.io/badge/Frontend-4A6A9C?style=for-the-badge" alt="Frontend" height="22" /> <b>앱 · 웹 화면</b><br />
+      <img src="https://img.shields.io/badge/Backend-4E8060?style=for-the-badge" alt="Backend" height="22" /> <b>화면용 API 일부</b><br /><br />
       <b>맡은 일</b> · React Native(Expo) 한 코드로 앱·웹 화면, 5개 언어, 스토어 출시<br /><br />
       <b>🔧 문제 해결</b><br />
       숫자가 낀 문구 208곳이 일본어·중국어 화면에서 영어로 나옴<br />
@@ -75,9 +75,9 @@
       <img src="assets/cookingtable.svg" width="100%" alt="쿠킹테이블" />
       <h4>🧑‍🍳 쿠킹테이블 &nbsp;·&nbsp; 🎤 자율 · 결과 발표 전</h4>
       <sub>요리 영상 레시피 AI 서비스 · 조리 로봇 기업연계 · 6인 팀 · 6주 (2026.10 ~ 11)</sub><br /><br />
-      <img src="https://img.shields.io/badge/Infra-E8590C?style=for-the-badge" alt="Infra" height="22" /> <b>서버 · 보안 · 백업</b><br />
-      <img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" height="22" /> <b>로그인 서비스</b><br />
-      <img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" height="22" /> <b>앱 화면</b><br /><br />
+      <img src="https://img.shields.io/badge/Infra-B5754A?style=for-the-badge" alt="Infra" height="22" /> <b>서버 · 보안 · 백업</b><br />
+      <img src="https://img.shields.io/badge/Backend-4E8060?style=for-the-badge" alt="Backend" height="22" /> <b>로그인 서비스</b><br />
+      <img src="https://img.shields.io/badge/Frontend-4A6A9C?style=for-the-badge" alt="Frontend" height="22" /> <b>앱 화면</b><br /><br />
       <b>맡은 일</b> · 팀 서버 Nginx·HTTPS, 카카오·네이버·구글 로그인 서비스, 보안 점검, 암호화 백업<br /><br />
       <b>🔧 문제 해결</b><br />
       12MB 영상 업로드가 서버 문 앞(Nginx)에서 413으로 막힘<br />
@@ -91,11 +91,11 @@
 ## 🧭 해 본 일과 기술
 
 <table>
-  <tr><th width="130">영역</th><th>해 본 일</th><th width="300">주로 쓴 기술</th></tr>
-  <tr><td align="center"><img src="https://img.shields.io/badge/Frontend-3178C6?style=for-the-badge" alt="Frontend" /></td><td>Vue 3 웹, React Native(Expo) 앱·웹 화면, 5개 언어, 앱 스토어 출시<br /><sub>근거 → <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">가볼래 · 208곳 번역 한 번에</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">가볼래 · 동시 401 갱신</a></sub></td><td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /></td></tr>
-  <tr><td align="center"><img src="https://img.shields.io/badge/Backend-2F9E44?style=for-the-badge" alt="Backend" /></td><td>Django API·배치, Spring Boot 로그인 서비스(OAuth·JWT), 화면에 필요한 API<br /><sub>근거 → <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">쿠킹테이블 · 로그인 서비스 설계</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">픽앤고 · AI 점수 배치·N+1</a></sub></td><td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td></tr>
-  <tr><td align="center"><img src="https://img.shields.io/badge/AI-7048E8?style=for-the-badge" alt="AI" /></td><td>차량 추적·주차 위반 판정 규칙, LLM 추천·검열, 요리 영상 단계 판독 실험<br /><sub>근거 → <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_주차바로_AIoT/내가_한_일.md">주차바로 · 추적·위반 판정</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">픽앤고 · AI 실패 시 처리</a></sub></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" /></td></tr>
-  <tr><td align="center"><img src="https://img.shields.io/badge/Infra-E8590C?style=for-the-badge" alt="Infra" /></td><td>무료 배포(Render·Neon), 팀 서버 Nginx·HTTPS·방화벽·SSH 보안·암호화 백업<br /><sub>근거 → <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">쿠킹테이블 · Nginx·SSH·백업</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">픽앤고 · 무료 배포</a></sub></td><td><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /></td></tr>
+  <tr><th width="110">영역</th><th>해 본 일</th><th width="300">주로 쓴 기술</th></tr>
+  <tr><td align="center"><b>Frontend</b></td><td>Vue 3 웹, React Native(Expo) 앱·웹 화면, 5개 언어, 앱 스토어 출시<br /><sub>근거 → <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">가볼래 · 208곳 번역 한 번에</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_가볼래_빅데이터_분산/내가_한_일.md">가볼래 · 동시 401 갱신</a></sub></td><td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" /></td></tr>
+  <tr><td align="center"><b>Backend</b></td><td>Django API·배치, Spring Boot 로그인 서비스(OAuth·JWT), 화면에 필요한 API<br /><sub>근거 → <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">쿠킹테이블 · 로그인 서비스 설계</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">픽앤고 · AI 점수 배치·N+1</a></sub></td><td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td></tr>
+  <tr><td align="center"><b>AI</b></td><td>차량 추적·주차 위반 판정 규칙, LLM 추천·검열, 요리 영상 단계 판독 실험<br /><sub>근거 → <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_주차바로_AIoT/내가_한_일.md">주차바로 · 추적·위반 판정</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">픽앤고 · AI 실패 시 처리</a></sub></td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8" /> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" /></td></tr>
+  <tr><td align="center"><b>Infra</b></td><td>무료 배포(Render·Neon), 팀 서버 Nginx·HTTPS·방화벽·SSH 보안·암호화 백업<br /><sub>근거 → <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/2학기_쿠킹테이블__기업연계/내가_한_일.md">쿠킹테이블 · Nginx·SSH·백업</a> · <a href="https://github.com/jinmiri-dev/MIRI_SSAFY/blob/main/1학기_픽앤고_영화추천사이트/내가_한_일.md">픽앤고 · 무료 배포</a></sub></td><td><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /></td></tr>
   <tr><td align="center"><b>협업</b></td><td>Jira 이슈 단위 작업, GitLab MR, 디자인 시안<br /><sub>AI 에이전트 여럿이 한 저장소에서 일할 때, 팀원이 만든 오픈소스 <a href="https://www.npmjs.com/package/axmap-cli">axMap</a>으로 작업 범위를 먼저 잡고 맥락을 쪽지로 남기며 협업</sub></td><td><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></td></tr>
 </table>
 
