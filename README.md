@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>🏆 프로젝트 수상 3회</b> &nbsp;·&nbsp; <b>📱 앱 스토어 출시</b> &nbsp;·&nbsp; <b>🧭 프론트·백엔드·AI·인프라</b> &nbsp;·&nbsp; <b>🗂 담당 Jira 이슈 503건</b>
+  <b>🏆 프로젝트 수상 4회</b> &nbsp;·&nbsp; <b>📱 앱 스토어 출시</b> &nbsp;·&nbsp; <b>🧭 프론트·백엔드·AI·인프라</b> &nbsp;·&nbsp; <b>🗂 담당 Jira 이슈 503건</b>
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@
     </td>
     <td width="50%" valign="top">
       <img src="assets/cookingtable.svg" width="100%" alt="쿠킹테이블" />
-      <h4>🧑‍🍳 쿠킹테이블 &nbsp;·&nbsp; 🎤 자율 · 결과 발표 전</h4>
+      <h4>🧑‍🍳 쿠킹테이블 &nbsp;·&nbsp; 🥉 자율 우수 (3등)</h4>
       <sub>요리 영상 레시피 AI 서비스 · 조리 로봇 기업연계 · 6인 팀 · 6주 (2026.10 ~ 11)</sub><br /><br />
       <img src="https://img.shields.io/badge/Infra-B5754A?style=for-the-badge" alt="Infra" height="22" /> <b>서버 · 보안 · 백업</b><br />
       <img src="https://img.shields.io/badge/Backend-4E8060?style=for-the-badge" alt="Backend" height="22" /> <b>로그인 서비스</b><br />
@@ -108,7 +108,7 @@
   <tr><td align="center">🥇 최우수</td><td><b>관통 프로젝트</b> · AI 영화 추천 서비스 Pick & Go</td><td><b>팀장</b></td></tr>
   <tr><td align="center">🥈 우수</td><td><b>공통 프로젝트</b> · AIoT 주차 관리 서비스 주차바로</td><td>AI 담당</td></tr>
   <tr><td align="center">🥈 우수</td><td><b>특화 프로젝트</b> · 부산 여행 추천 서비스 GABOLLE(가볼래)</td><td>프론트엔드 담당</td></tr>
-  <tr><td align="center">🎤 발표</td><td><b>자율 프로젝트(기업연계)</b> · 요리 영상 레시피 서비스 쿠킹테이블 · 결과 발표 전</td><td>인프라 담당</td></tr>
+  <tr><td align="center">🥉 우수</td><td><b>자율 프로젝트(기업연계)</b> · 요리 영상 레시피 서비스 쿠킹테이블 · 3등</td><td>인프라 담당</td></tr>
 </table>
 
 <details>
